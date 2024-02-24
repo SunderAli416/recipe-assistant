@@ -18,6 +18,7 @@ The Recipe Assistant is a conversational AI application designed to provide user
 ├── langchain_helper_functions.py  # Core functionality including text processing and response generation
 └── streamlit_ui.py         # Streamlit application for the user interface       # Streamlit application for the user interface
 
+```
 
 
 ## Methodology and Technologies
