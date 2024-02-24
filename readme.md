@@ -11,11 +11,12 @@ The Recipe Assistant is a conversational AI application designed to provide user
 
 ## File Structure
 
+```plaintext
 .
 ├── data/                   # Directory containing recipe PDFs
 ├── helper_functions.py     # Utility functions for text extraction from PDFs
 ├── langchain_helper_functions.py  # Core functionality including text processing and response generation
-└── streamlit_ui.py         # Streamlit application for the user interface
+└── streamlit_ui.py         # Streamlit application for the user interface       # Streamlit application for the user interface
 
 
 
