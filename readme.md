@@ -55,7 +55,3 @@ The Recipe Assistant is a conversational AI application designed to provide user
 - Start a conversation by asking for a recipe or mentioning some ingredients.
 - The assistant, leveraging the conversational AI model and the recipe context extracted from your PDFs, will provide you with a suitable recipe.
 
-## Contributing
-
-- Contributions are welcome! Please fork the repository and submit a pull request with your improvements or suggestions.
-
